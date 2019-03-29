@@ -9,21 +9,25 @@ Ejercicios:
   document.html
   codigo.js
 
-3 - Calculamos nuestro peso en Marte y Jupiter
+3 - Calculamos nuestro peso en Marte
+  Archivo:
+  Marte.html
+
+4 - Calculamos nuestro peso en Marte y Jupiter
   Archivos:
   Marte_jupiter.html
   
-4 - Dibujamos lineas en canvas
+5 - Dibujamos lineas en canvas
   Archivos:
   dibujo.html
   dibujo.js
   
-5 - Dibujamos lineas con las flechas del teclado
+6 - Dibujamos lineas con las flechas del teclado
   Archivos:
   flechas.html
   eventos.js
 
-6- Jugamos con canvas y flechas del teclado
+7- Jugamos con canvas y flechas del teclado
    Archivos:
    vaca.png
    cerdo.png
