@@ -1,9 +1,31 @@
 # Prog_Básica
 
-Estos códigos son ejercicios de programación básica.
+Ejercicios:
 
-1 Marte-jupiter: evalua tu peso en otro planeta.
+1 - Primer_html
 
-2 Dibujo: Dibujo de red en canvas
+2 - Jugamos con Windows y Document
+  Archivos:
+  document.html
+  codigo.js
 
-3 Granja con Canvas + Js
+3 - Calculamos nuestro peso en Marte y Jupiter
+  Archivos:
+  Marte_jupiter.html
+  
+4 - Dibujamos lineas en canvas
+  Archivos:
+  dibujo.html
+  dibujo.js
+  
+5 - Jugamos con canvas y flechas del teclado
+   Archivos:
+   vaca.png
+   cerdo.png
+   pollo.png
+   lobo.png
+   tile.png
+   villa.html
+   platzi.js
+   
+6 - 
