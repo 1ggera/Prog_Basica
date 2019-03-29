@@ -18,7 +18,12 @@ Ejercicios:
   dibujo.html
   dibujo.js
   
-5 - Jugamos con canvas y flechas del teclado
+5 - Dibujamos lineas con las flechas del teclado
+  Archivos:
+  flechas.html
+  eventos.js
+
+6- Jugamos con canvas y flechas del teclado
    Archivos:
    vaca.png
    cerdo.png
@@ -28,4 +33,4 @@ Ejercicios:
    villa.html
    platzi.js
    
-6 - 
+-
